@@ -389,3 +389,8 @@ a.nav-brand {
 .color-grey {
   color: grey;
 }
+
+a.color-grey:hover {
+color: red;
+
+}
